@@ -1,2 +1,2 @@
 # Aleena-Trending-Bag
-Affordable, Aesthetic and Pinterest  inspired Bags
+TrendBag website aims to provide a modern and user-friendly platform for selling trending Pinterest-style bags at affordable prices. The system focuses on delivering a visually appealing shopping experience with organized categories, trending collections, and interactive features such as filtering and add-to-cart functionality. By using HTML, CSS, and JavaScript, the project demonstrates practical implementation of frontend development concepts in a real-world e-commerce scenario.
